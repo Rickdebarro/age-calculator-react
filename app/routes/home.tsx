@@ -4,8 +4,8 @@ import AgeCalculatorPage from "./ageCalculatorPage/index";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "Calculadora de Idade" },
+    { name: "description", content: "Bem vindo a calculadora de idade" },
   ];
 }
 
